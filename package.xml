@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+    <name>Avip_Cache</name>
+    <version>0.1</version>
+    <stability>stable</stability>
+    <license uri="http://www.opensource.org/licenses/gpl-license.php">GPL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Fast caching solution for your stores. Based uppon Zend Cache Page.</summary>
+    <description>Fast caching solution for your stores. 
+Based on Zend Cache Page.</description>
+    <notes>Tested only with Magento 1.3, could work with above.</notes>
+    <authors><author><name>MOUALI Rabii</name><user>auto-converted</user><email>fincom@free.fr</email></author></authors>
+    <date>2010-04-18</date>
+    <time>10:36:36</time>
+    <contents><target name="magecommunity"><dir name="Avip"><dir name="Cache"><dir name="etc"><file name="config.xml" hash="c5118ff2d1d8d273e8563152381aea46"/></dir><dir name="Model"><dir name="Product"><file name="Observer.php" hash="9b9525c753fd0ea8725091f052b65d73"/></dir></dir></dir></dir></target><target name="magelib"><dir name="Avip"><dir name="Cache"><dir name="Frontend"><file name="Page.php" hash="c1bda4d74d4402a545af048618a7395f"/></dir></dir><file name="Cache.php" hash="4d9abebd7a8b6455a947e5013ca2ffeb"/></dir></target></contents>
+    <compatible/>
+    <dependencies/>
+</package>

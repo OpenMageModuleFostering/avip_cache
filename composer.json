@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Avip_Cache",
+    "name": "OpenMageModuleFostering\/Avip_Cache",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "Fast caching solution for your stores. Based uppon Zend Cache Page.",
     "authors": [
-    {
-        "name": "MOUALI Rabii",
-        "email": "fincom@free.fr"
-    }
-],
+        {
+            "name": "MOUALI Rabii",
+            "email": "fincom@free.fr"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
